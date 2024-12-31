@@ -1,3 +1,4 @@
 *.sqlite3
 timer/__pycache__/
 event_countdown/__pycache__/
+timer/migrations/
